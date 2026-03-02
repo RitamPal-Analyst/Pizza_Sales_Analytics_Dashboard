@@ -4,6 +4,8 @@ An interactive business intelligence dashboard built using **SQL, Power Query, a
 
 ---
 
+<img width="1442" height="829" alt="Screenshot 2026-03-02 220405" src="https://github.com/user-attachments/assets/69ac5994-1475-4814-b0df-1481262fac92" />
+
 ## 📌 Project Overview
 
 This project transforms raw transactional sales data into meaningful insights through data cleaning, analysis, and visualization.
@@ -89,3 +91,5 @@ If you have suggestions or feedback, feel free to connect with me on LinkedIn!
 ---
 
 ⭐ If you found this project interesting, consider giving it a star!
+
+
