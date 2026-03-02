@@ -1,22 +1,91 @@
-Pizza Sales Analytics Dashboard | SQL, Power Query & Excel
-Pizza Sales Analytics Dashboard | SQL, Power Query & Excel
-Feb 2026 - Mar 2026Feb 2026 - Mar 2026
-Designed and developed an interactive Pizza Sales Analytics Dashboard to analyze business performance and customer ordering behavior using real-world sales data.
+# 🍕 Pizza Sales Analytics Dashboard
 
-🔍 Objective:
-To transform raw transactional data into actionable insights by identifying revenue drivers, peak sales periods, product performance, and customer preferences.
+An interactive business intelligence dashboard built using **SQL, Power Query, and Microsoft Excel** to analyze pizza sales data and uncover actionable insights.
 
-🛠 Tools & Technologies Used:
-• SQL – Data extraction, KPI calculations, aggregations
-• Power Query – Data cleaning and transformation
-• Excel – Data modeling, pivot tables, KPI cards & interactive dashboard design
+---
 
-📊 Key Business Insights:
-• Generated $817K+ in total revenue from 21K+ orders
-• Identified peak sales on weekends, especially Friday evenings
-• Discovered highest order volume during 12–1 PM and 5–8 PM
-• Classic category and Large size pizzas contribute maximum sales
-• Highlighted best and worst-selling products for strategic decisions
+## 📌 Project Overview
 
-🎯 Impact:
-Enabled clear data-driven recommendations for inventory planning, promotional timing, and product focus to improve profitability.
+This project transforms raw transactional sales data into meaningful insights through data cleaning, analysis, and visualization.
+
+The dashboard helps answer key business questions such as:
+- When are customers ordering the most?
+- Which pizza categories and sizes generate the highest revenue?
+- What are the best and worst-selling products?
+- How can the business optimize sales and operations?
+
+---
+
+## 🎯 Objectives
+
+- 📊 Analyze overall revenue and order performance  
+- 🕒 Identify peak sales hours and busiest days  
+- 🍕 Determine top-performing pizza categories and sizes  
+- 📉 Highlight worst-selling products  
+- 📈 Enable data-driven business decisions  
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **SQL** – Data extraction, aggregation, KPI calculations  
+- **Power Query** – Data cleaning and transformation  
+- **Microsoft Excel** – Data modeling, pivot tables, dashboard creation  
+
+---
+
+## 📊 Key KPIs
+
+- 💰 **Total Revenue:** $817,860  
+- 🧾 **Total Orders:** 21,350  
+- 🍕 **Total Pizzas Sold:** 49,574  
+- 📦 **Average Order Value:** $38.31  
+- 🔢 **Average Pizzas per Order:** 2.32  
+
+---
+
+## 🔎 Key Insights
+
+- 📅 Orders are highest on **weekends**, especially **Friday evenings**
+- ⏰ Peak order times: **12–1 PM** and **5–8 PM**
+- 🍕 **Classic category** contributes the highest sales
+- 📏 **Large size pizzas** generate maximum revenue
+- 🏆 Best Sellers: Classic Deluxe & Chicken pizzas
+- 📉 Lowest Seller: Brie Carre Pizza
+
+---
+
+## 📈 Business Impact
+
+This dashboard helps in:
+- Better inventory planning  
+- Optimizing promotional timing  
+- Improving product strategy  
+- Enhancing operational efficiency  
+
+---
+
+## 📷 Dashboard Preview
+
+*(Add your dashboard screenshot here)*  
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning & Transformation  
+- SQL Query Writing  
+- KPI Development  
+- Data Visualization  
+- Business Insight Generation  
+- Dashboard Design  
+
+---
+
+## 🤝 Let’s Connect
+
+If you have suggestions or feedback, feel free to connect with me on LinkedIn!
+
+---
+
+⭐ If you found this project interesting, consider giving it a star!
